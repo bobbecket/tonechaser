@@ -1,0 +1,9 @@
+{
+  "name": "tonechaser",
+  "private": true,
+  "version": "1.0.0",
+  "description": "TRain your hear by following tones",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
