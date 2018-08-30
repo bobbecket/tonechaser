@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "TRain your hear by following tones",
   "scripts": {
+    "start:spa": "http-server spa",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }
